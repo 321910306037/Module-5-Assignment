@@ -1,0 +1,5 @@
+dict_1={"pramod":8,"abhi":42,"harish":35}
+dict_2={"liketh":60,"prem":62,"kkr":39}
+dict_3={}
+for d in (dict_1,dict_2):dict_3.update(d)
+print(dict_3)
