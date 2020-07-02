@@ -1,0 +1,3 @@
+dictt={"pramod":8,"liketh":35}
+dictt["harish"]=31
+print(dictt)
